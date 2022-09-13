@@ -1,4 +1,4 @@
-# recursive_crawler
+# Python recursive_crawler
 #A python recursive crawler 
 #This is a simple recursive crawler
 #To use there the method crawl takes to arguments, a list of links, and the domain name of the website that need crawling.
